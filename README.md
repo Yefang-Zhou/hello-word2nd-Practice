@@ -1,2 +1,5 @@
 # hello-word2nd-Practice
-It is only a practice after reading the guide of GitHub.
+Yes I knew.
+Hey here, it is the 2nd time I tried this function.
+Or collabroration as you say.
+By Chou Y
